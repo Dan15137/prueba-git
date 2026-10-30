@@ -380,6 +380,6 @@ git branch
 git remote -v
 ```
 
-Si vas a entregar la práctica, sube el Markdown y el proyecto al repositorio de GitHub y copia la URL del repositorio.
+
 
 
