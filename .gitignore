@@ -1,0 +1,8 @@
+# Ignorar archivos compilados
+*.class
+
+# Ignorar archivos temporales acabados en ~
+*~
+
+# Excepto este archivo
+!important~
